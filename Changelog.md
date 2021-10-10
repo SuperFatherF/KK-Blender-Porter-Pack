@@ -1,5 +1,5 @@
 reminder for later: https://blenderartists.org/t/way-faster-normal-map-node-for-realtime-animation-playback-with-tangent-space-normals/1175379
-
+test again
 ### Changes for V4.3.1:
 * Renamed the spine bones during the "1) Run right after importing" script
     * CATS was not detecting the Spine, Chest and Upper Chest bones correctly. This resulted in the spine and chest bones being merged into one bone with awkward spine bends. Renaming the bones lets CATS detect the three bones correctly.
